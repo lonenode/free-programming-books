@@ -786,7 +786,7 @@
 * [BASH Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [BashGuide](http://mywiki.wooledge.org/BashGuide)
-* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates
+* [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) - Mark Bates (en route)
 * [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php)
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School
@@ -1071,7 +1071,7 @@
 
 ### Git
 
-* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
+* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) (en route)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
